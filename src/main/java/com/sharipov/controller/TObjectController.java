@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.sharipov.model.TObject;
 import com.sharipov.service.TObjectService;
 
-@Service
+
 @RestController
 @RequestMapping("/")
 public class TObjectController {
